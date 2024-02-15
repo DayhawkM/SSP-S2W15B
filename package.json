@@ -6,7 +6,7 @@
   "scripts": {
     "test": "gittest"
   },
-  "type": "module", 
+  "type": "module",
   "repository": {
     "type": "module",
     "url": "SSP-S2W15B"
@@ -15,4 +15,8 @@
     "gittest"
   ],
   "author": "DayhawkM",
-  "license": "UNLICENSED"}
+  "license": "UNLICENSED",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
